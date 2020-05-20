@@ -1,0 +1,6 @@
+cat cidades_sc.txt | grep Balneario
+
+Balneario Arroio do Silva
+Balneario Barra do Sul
+Balneario Camboriu
+Balneario Gaivota

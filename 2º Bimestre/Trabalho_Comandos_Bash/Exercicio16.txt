@@ -1,0 +1,1 @@
+cat cidades_sc.txt | grep Balneario > balneario.txt

@@ -1,0 +1,47 @@
+Nathan Mainka Soares
+Nathan Mainka Soares
+.
+..
+cliente_1.txt
+Cliente.sh
+Exercicio1.png
+Exercicio2(1).png
+Exercicio2.png
+Exercicio3.png
+Exercicio4.png
+Exercicio5.png
+Exercicio6.png
+Exercicio7.png
+Resultado.txt
+Nathan Mainka Soares
+Joinville
+total 436
+drwxrwxr-x  3 nathan nathan  4096 mai 19 21:28 .
+drwxr-xr-x 17 nathan nathan  4096 mai 19 20:31 ..
+-rw-rw-r--  1 nathan nathan    31 mai 19 21:28 cliente_1.txt
+drwxrwxr-x  2 nathan nathan  4096 mai 19 21:28 clientes
+-rwxrwxr-x  1 nathan nathan   332 mai 19 21:15 Cliente.sh
+-rw-rw-r--  1 nathan nathan 33901 mai 19 20:33 Exercicio1.png
+-rw-rw-r--  1 nathan nathan 22477 mai 19 20:36 Exercicio2(1).png
+-rw-rw-r--  1 nathan nathan 28489 mai 19 20:36 Exercicio2.png
+-rw-rw-r--  1 nathan nathan 61623 mai 19 20:38 Exercicio3.png
+-rw-rw-r--  1 nathan nathan 75439 mai 19 20:39 Exercicio4.png
+-rw-rw-r--  1 nathan nathan 57546 mai 19 20:41 Exercicio5.png
+-rw-rw-r--  1 nathan nathan 47001 mai 19 20:43 Exercicio6.png
+-rw-rw-r--  1 nathan nathan 76140 mai 19 20:44 Exercicio7.png
+-rw-rw-r--  1 nathan nathan   240 mai 19 21:28 Resultado.txt
+total 12
+drwxrwxr-x 2 nathan nathan 4096 mai 19 21:28 .
+drwxrwxr-x 3 nathan nathan 4096 mai 19 21:28 ..
+-rw-rw-r-- 1 nathan nathan   31 mai 19 21:28 cliente_1.txt
+Nathan Mainka Soares
+Joinville
+total 16
+drwxrwxr-x 2 nathan nathan 4096 mai 19 21:28 .
+drwxrwxr-x 3 nathan nathan 4096 mai 19 21:28 ..
+-rw-rw-r-- 1 nathan nathan   31 mai 19 21:28 cliente_1.txt
+-rw-rw-r-- 1 nathan nathan   31 mai 19 21:28 cliente_1.txt.bkp
+total 12
+drwxrwxr-x 2 nathan nathan 4096 mai 19 21:28 .
+drwxrwxr-x 3 nathan nathan 4096 mai 19 21:28 ..
+-rw-rw-r-- 1 nathan nathan   31 mai 19 21:28 cliente_1.txt.bkp

@@ -1,0 +1,2 @@
+Foi criado um arquivo com o stdout do comando cal.
+O operador > serve para enviar o stream stdout à um arquivo, caso esse arquivo não exista, ele é criado.
