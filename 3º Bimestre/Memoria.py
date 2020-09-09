@@ -120,9 +120,9 @@ if __name__ == '__main__':
         tamanho = int(input("\nQual o tamanho do seu programa?\n"))
         escolha = int(input("\nQual algoritmo você deseja executar?\
         \n\t1 - Best Fit\n\t2 - Worst Fit\n\t3 - First fit\n\
-        4 - Desalocar programa alocado através do Best Fit\n\
-        5 - Desalocar programa alocado através do Worst Fit\n\
-        6 - Desalocar programa alocado através do First Fit\n\
+        4 - Desalocar programa(s) alocado através do Best Fit\n\
+        5 - Desalocar programa(s) alocado através do Worst Fit\n\
+        6 - Desalocar programa(s) alocado através do First Fit\n\
         7 - Sair\n\t"))
         if escolha == 1:
             memoria_atual.bestFit(tamanho)
